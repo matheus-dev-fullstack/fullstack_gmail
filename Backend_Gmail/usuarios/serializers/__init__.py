@@ -1,0 +1,1 @@
+from usuarios.serializers.user_serializer import UserSerializer

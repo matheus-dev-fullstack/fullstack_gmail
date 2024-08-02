@@ -1,0 +1,1 @@
+from emails.serializers.email_serializer import EmailSerializer
